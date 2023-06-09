@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayaKSmitha21
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning coding and web development
 - 💞️ I’m looking to collaborate on various open sources
 - 📫 How to reach me LinkedIn:https://www.linkedin.com/in/smitha-n-11a232221
 
