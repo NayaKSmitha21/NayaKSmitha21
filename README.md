@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/smitha-n-11a232221)
 
-Welcome to my GitHub profile! I'm a passionate Software Developer who loves solving problems, exploring Machine Learning, and has a keen interest in web development.
+Welcome to my GitHub profile! I'm a passionate Software Developer who loves problem solving, exploring Machine Learning, and has a keen interest in web development.
 
 ---
 
