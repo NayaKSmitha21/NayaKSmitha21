@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer who loves solv
 
 ## 🌟 About Me
 
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fcartoon-smart-girl-laptop.html&psig=AOvVaw3Eth1jOjXKZaje_hdRCK54&ust=1731653104211000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiPj9ac24kDFQAAAAAdAAAAABAE)
+
 
 - 👋 Hi, I’m **@NayaKSmitha21**.
 - 👀 I’m interested in programming and tackling challenging problems.
