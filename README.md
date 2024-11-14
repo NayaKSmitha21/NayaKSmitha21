@@ -7,6 +7,9 @@ Welcome to my GitHub profile! I'm a passionate Software Developer who loves solv
 ---
 
 ## 🌟 About Me
+
+![Girl Working on Laptop](https://example.com/cute-girl-laptop.jpg)
+
 - 👋 Hi, I’m **@NayaKSmitha21**.
 - 👀 I’m interested in programming and tackling challenging problems.
 - 🌱 Enthusiast in **coding** and **web development**.
