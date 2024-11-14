@@ -1,71 +1,51 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Smitha Nayak!
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/smitha-n-11a232221)
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Role] who loves to [mention your key interests, e.g., develop web applications, explore AI, contribute to open source, etc.].
+Welcome to my GitHub profile! I'm a passionate Software Developer who loves solving problems, exploring Machine Learning, and has a keen interest in web development.
 
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **[mention your project or focus area]**.
-- 🌱 I’m learning **[mention tech/skills you're currently learning]**.
-- 👯 I’m looking to collaborate on **[projects/areas of interest]**.
-- 💬 Ask me about **[technologies, fields, or areas you are comfortable discussing]**.
-- 📫 How to reach me: **[email@example.com]**.
-- ⚡ Fun fact: **[something interesting about yourself]**.
+- 👋 Hi, I’m **@NayaKSmitha21**.
+- 👀 I’m interested in programming and tackling challenging problems.
+- 🌱 Enthusiast in **coding** and **web development**.
+- 💞️ Always eager to collaborate on exciting **open-source projects**.
+- 🤖 Currently honing my skills in **Machine Learning** and data-driven solutions.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/smitha-n-11a232221).
 
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Django, Flask
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, VSCode, Postman
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Smitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayaKSmitha21&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements & Highlights
-- 🌟 **[Award/Recognition]:** Brief description
-- 📚 **[Published Work/Projects]:** Include links to your notable works
-- 🏅 **Hackathons/Competitions:** Achievements in events
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title of the blog post](link)
-- [Title of another blog post](link)
-<!-- BLOG-POST-LIST:END -->
-
-You can check out more on my [personal blog](your-blog-link).
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayaKSmitha21&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-url)
-- [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)
-- [![Email](https://img.shields.io/badge/Email-YourEmail-blue?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/smitha-n-11a232221)
+- 📧 Email: **nayaksmitha03@gmail.com**
 
----
-
-### 🤗 Support Me
-If you like my work, consider supporting me!
-- [Buy Me a Coffee](https://www.buymeacoffee.com/your-url)
-- [Patreon](https://www.patreon.com/your-url)
-
----
-
-## 💬 Let's Chat!
-Feel free to check out my projects, and if you have any cool collaboration ideas, let's make it happen! 🤝
-
----
-
-> “Your favorite inspirational quote here.” — Author
+Feel free to explore my projects, and let's collaborate on meaningful tech solutions together! 🚀
